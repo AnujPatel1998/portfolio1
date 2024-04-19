@@ -445,12 +445,12 @@ body{
     align-items: center;
     padding-top: 20px;
 }
-.facebook,.insta,.twitter{
+.facebook,.insta,.twitter,.github,.linkedin{
     height: 35px;
     width: 35px;
     padding-left: 5px;
 }
-.facebook img,.insta img,.twitter img{
+.facebook img,.insta img,.twitter img,.github img,.linkedin img{
     height: 100%;
     width: 100%;
     cursor: pointer;
